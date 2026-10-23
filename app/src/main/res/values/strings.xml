@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="setup_title">Загадайте число</string>
+    <string name="from_label">ОТ</string>
+    <string name="to_label">ДО</string>
+    <string name="min_hint">1</string>
+    <string name="max_hint">100</string>
+    <string name="start_game">Начать</string>
+    <string name="error_range">Введите корректный диапазон</string>
+    <string name="guess_question">Ваше число — это…</string>
+    <string name="current_range">Сейчас ищем от %1$d до %2$d</string>
+    <string name="answer_hint">Подскажите, куда двигаться</string>
+    <string name="only_number_left">Остался единственный вариант!</string>
+    <string name="number_is_greater">Моё число больше</string>
+    <string name="number_is_less">Моё число меньше</string>
+    <string name="computer_guessed">Это моё число</string>
+    <string name="change_range">Изменить диапазон</string>
+    <string name="success_title">Число найдено</string>
+    <string name="success_message">Вы загадали %1$d. Понадобилось попыток: %2$d.</string>
+    <string name="play_again">Новая игра</string>
+    <string name="stay_here">Закрыть</string>
+    <string name="attempts_count">Попытка №%d</string>
+</resources>
